@@ -11,8 +11,8 @@ extraction that keeps only the real `*-main.*` media files.
 [![Python Version](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Issues](https://img.shields.io/github/issues/IDC26/SnapchatMemoryDownloader)
-![Stars](https://img.shields.io/github/stars/IDC26/SnapchatMemoryDownloader?style=social)
+![Issues](https://img.shields.io/github/issues/IDC26/SnapchatMemoryDownloader2)
+![Stars](https://img.shields.io/github/stars/IDC26/SnapchatMemoryDownloader2?style=social)
 
 ---
 
